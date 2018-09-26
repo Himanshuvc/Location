@@ -1,0 +1,10 @@
+C:\Users\Himanshu Trivedi\Downloads\WorkingWithMaps\WorkingWithMaps\bin\Debug\netstandard2.0\WorkingWithMaps.deps.json
+C:\Users\Himanshu Trivedi\Downloads\WorkingWithMaps\WorkingWithMaps\bin\Debug\netstandard2.0\WorkingWithMaps.dll
+C:\Users\Himanshu Trivedi\Downloads\WorkingWithMaps\WorkingWithMaps\bin\Debug\netstandard2.0\WorkingWithMaps.pdb
+C:\Users\Himanshu Trivedi\Downloads\WorkingWithMaps\WorkingWithMaps\obj\Debug\netstandard2.0\WorkingWithMaps.csprojAssemblyReference.cache
+C:\Users\Himanshu Trivedi\Downloads\WorkingWithMaps\WorkingWithMaps\obj\Debug\netstandard2.0\WorkingWithMaps.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu Trivedi\Downloads\WorkingWithMaps\WorkingWithMaps\obj\Debug\netstandard2.0\WorkingWithMaps.AssemblyInfoInputs.cache
+C:\Users\Himanshu Trivedi\Downloads\WorkingWithMaps\WorkingWithMaps\obj\Debug\netstandard2.0\WorkingWithMaps.AssemblyInfo.cs
+C:\Users\Himanshu Trivedi\Downloads\WorkingWithMaps\WorkingWithMaps\obj\Debug\netstandard2.0\WorkingWithMaps.dll
+C:\Users\Himanshu Trivedi\Downloads\WorkingWithMaps\WorkingWithMaps\obj\Debug\netstandard2.0\WorkingWithMaps.pdb
+C:\Users\Himanshu Trivedi\Downloads\WorkingWithMaps\WorkingWithMaps\obj\Debug\netstandard2.0\XamlC.stamp
